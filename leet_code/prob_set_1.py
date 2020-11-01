@@ -19,7 +19,9 @@ print (listy[0])
 del listy[0]
 print (listy[0])
 
-print ('ccbccbb' > 'bccbccbb')
+#aacc>aabb
+
+print ('ab' > 'ba')
 # chars = [char for char in word]
 # print (chars)
 
